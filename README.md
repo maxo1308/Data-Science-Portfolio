@@ -116,28 +116,6 @@ C++ · OpenMP · HPC · Image Processing
 
 ---
 
-# ☁️ Additional Projects
-
-You can also find applied and industry-focused solutions:
-
-- Recommendation systems
-- Customer analytics
-- Data pipelines
-- Web scraping automation
-- Dashboard development
-
-📂 [View Applied Projects](./Projects_Applied)
-
----
-
-# 📄 Publications & Academic Work
-
-Conference papers, posters, and academic research developed during my undergraduate studies.
-
-📂 [View Publications](./Publications)
-
----
-
 # 🧠 Research Interests
 
 - Multimodal Learning
