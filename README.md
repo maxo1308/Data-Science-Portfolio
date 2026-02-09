@@ -116,8 +116,6 @@ C++ · OpenMP · HPC · Image Processing
 
 ---
 
-<<<<<<< HEAD
-=======
 # ☁️ Additional Projects
 
 You can also find applied and industry-focused solutions:
@@ -140,7 +138,6 @@ Conference papers, posters, and academic research developed during my undergradu
 
 ---
 
->>>>>>> 88130382cca0463be91fd07a3a83c53d999f788b
 # 🧠 Research Interests
 
 - Multimodal Learning
