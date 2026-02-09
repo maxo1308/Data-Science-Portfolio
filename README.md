@@ -153,10 +153,6 @@ Conference papers, posters, and academic research developed during my undergradu
 
 # 📫 Contact
 
-<<<<<<< HEAD
 **LinkedIn:** https://linkedin.com/in/maxcabezas
 **Email:** maxo13080318@gmail.com  
-=======
-**LinkedIn:** https://linkedin.com/in/TUUSUARIO  
-**Email:** tuemail@correo.com  
->>>>>>> 88130382cca0463be91fd07a3a83c53d999f788b
+
