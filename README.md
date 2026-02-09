@@ -116,6 +116,31 @@ C++ · OpenMP · HPC · Image Processing
 
 ---
 
+<<<<<<< HEAD
+=======
+# ☁️ Additional Projects
+
+You can also find applied and industry-focused solutions:
+
+- Recommendation systems
+- Customer analytics
+- Data pipelines
+- Web scraping automation
+- Dashboard development
+
+📂 [View Applied Projects](./Projects_Applied)
+
+---
+
+# 📄 Publications & Academic Work
+
+Conference papers, posters, and academic research developed during my undergraduate studies.
+
+📂 [View Publications](./Publications)
+
+---
+
+>>>>>>> 88130382cca0463be91fd07a3a83c53d999f788b
 # 🧠 Research Interests
 
 - Multimodal Learning
@@ -128,5 +153,10 @@ C++ · OpenMP · HPC · Image Processing
 
 # 📫 Contact
 
+<<<<<<< HEAD
 **LinkedIn:** https://linkedin.com/in/maxcabezas
 **Email:** maxo13080318@gmail.com  
+=======
+**LinkedIn:** https://linkedin.com/in/TUUSUARIO  
+**Email:** tuemail@correo.com  
+>>>>>>> 88130382cca0463be91fd07a3a83c53d999f788b
