@@ -128,6 +128,7 @@ C++ · OpenMP · HPC · Image Processing
 
 # 📫 Contact
 
-**LinkedIn:** https://linkedin.com/in/maxcabezas
-**Email:** maxo13080318@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/maxcabezas
+
+- **Email:** maxo13080318@gmail.com  
 
